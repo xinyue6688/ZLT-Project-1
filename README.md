@@ -7,7 +7,7 @@ Project for liquidity factor decile test and Fama-French SMB & HML empirical ana
 
 Sample data for function illustration
 ## 2. Utils
-### [2.1 get_wind_data.py](https://github.com/xinyue6688/ZLT-Project-1/blob/main/FactorTest/Utils/connect_wind.py)
+### 2.1 [get_wind_data.py](https://github.com/xinyue6688/ZLT-Project-1/blob/main/FactorTest/Utils/connect_wind.py)
 从wind获取数据
 
 Obtain data from wind API
